@@ -1,0 +1,41 @@
+<html>
+<head> 
+  <title>
+      Joyería Lilim
+ </title>
+ </head>
+ <body  bgcolor=" #FADBD8">
+     <br>
+ <h1 align="center"><font face="verdana">JOYERÍA LILIM</h1>
+ <table  border="1" align="center">
+    </head>
+    <body>
+  <p align="center">Bienvenido a nuestra pagina web.</p>
+     <p align="center">Porque la joyería es mucho más que simples piedras y diseños, la joyería es la pieza fundamental de todo.</p> 
+      <p align="center">!Siempre brilla con nuestras piezas hechas para ti¡</p>
+    
+    <div style="position: relative; width: 50%; height: 0; padding-top: 100.00%;
+ padding-bottom: 0px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 50%; height: 50%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwflbsqkU&#x2F;view?embed">
+ </iframe>
+</div>  
+<a src="https://drive.google.com/drive/folders/1SLjhF27_SsUJV6YXLogQGG46r2H_sScz" target="_blank" rel="logo icon">Joyería Mexicana Lilim</a> de Avelina Trejo Huerta y Kenneth Peyro Hernández.
+     
+</div> 
+   <td><button><a class="button"
+      href=https://codepen.io/avelinatrejo97/pen/dyzEEzJ> Inicio de sesión </button></td>             
+    </html>
+  
+  <td><button><a class="circle"  href=https://codepen.io/avelinatrejo97/pen/zYExvwv>Catalogo anillos  
+</button></td> 
+
+  <td><button><a class="circle"   href=https://codepen.io/avelinatrejo97/pen/VwMYvQM>Catalogo aretes
+  </button></td>
+ 
+ <td><button><a class="circle"  href=https://codepen.io/avelinatrejo97/pen/NWaPGzJ>Catalogo collares</button></td>
+   
+   <td><button><a class="circle"  href=https://codepen.io/avelinatrejo97/pen/JjroRKM>Más</button></td>
+   
+ </html>   
