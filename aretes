@@ -1,0 +1,93 @@
+<html>
+<!DOCTYPE html>
+    <head>
+       <body>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		Joyeria Lilim
+	</title>
+</head>
+<link rel="shortcut icon" href="LOGO.png">
+<body bgcolor="6EBCFF"><font face="verdana">
+
+<h1 align="center">Joyeria Lilim</h1>
+
+<table align="center" border="1" bgcolor="D5D5D5" width="95%">
+	
+<tr>
+	<th align="center" colspan="4" bgcolor="7D7D7D"><font color="white">Aretes</th>
+</tr>
+
+<tr bgcolor="AEAEAE">
+	<td>Producto</td>
+	<td align="center">Precio</td>
+	<td align="center">Disponibilidad</td>
+	<td align="center">Foto del produto</td>
+</tr>
+
+  <tr bgcolor="D1D1D1">
+	<td>aretes sencillos</td>
+	<td align="center">$120</td>
+	<td align="center">Disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes.jpg" width="200">
+</td>
+</tr>
+  
+  <tr bgcolor="D1D1D1">
+	<td>aretes corazon</td>
+	<td align="center">$200</td>
+	<td align="center">Disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes corazon.jpg" width="200">
+</td>
+</tr>
+  
+  <tr bgcolor="D1D1D1">
+	<td>aretes opalo verde</td>
+	<td align="center">$500</td>
+	<td align="center">Disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes opalo verde.jpg" width="200">
+</td>
+</tr>
+  
+  <tr bgcolor="D1D1D1">
+	<td>aretes plata cuadrada</td>
+	<td align="center">$350</td>
+	<td align="center">Disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes plata cuadrada.jpg" width="200">
+</td>
+</tr>
+  
+  <tr bgcolor="D1D1D1">
+	<td>aretes con forma de ojos</td>
+	<td align="center">$180</td>
+	<td align="center">No disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes forma ojos.jpg" width="200">
+</td>
+</tr>
+  
+  <tr bgcolor="D1D1D1">
+	<td>aretes de oro rosa</td>
+	<td align="center">$1100</td>
+	<td align="center">Disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes de oro rosa.jpg" width="200"> 
+</td>
+</tr>
+
+  <tr bgcolor="D1D1D1">
+	<td>aretes cosmo tornasol</td>
+	<td align="center">$1300</td>
+	<td align="center">No disponible</td>
+	<td align="center"><img src="https://drive.google.com/drive/folders/1QnxnrR9U_NyiWxL2jQ_-wG4oNpKVXsAb/aretes cosmo tornasol.jpg" width="200"> 
+</td>
+</tr>
+</table> 
+</body>
+</html>
+      
+      <td><button><a class="circle"  href=https://codepen.io/avelinatrejo97/pen/zYExvwv>Catalogo anillos  
+</button></td> 
+        
+   <td><button><a class="circle"  href=https://codepen.io/avelinatrejo97/pen/NWaPGzJ>Catalogo collares</button></td>
+   
+   <td><button><a class="circle"  href=https://codepen.io/avelinatrejo97/pen/mdByVMg>Regresar página principal.</button></td>   
